@@ -15,7 +15,6 @@ I combine analytical thinking with technical expertise to drive impactful soluti
 |---|---|---|---|  
 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
-
 ---
 
 ## 📊 Featured Projects  
@@ -35,6 +34,14 @@ I combine analytical thinking with technical expertise to drive impactful soluti
 ### [Energy Demand Forecasting](https://github.com/ArchitDukhande/Energy-Consumption-Prediction-using-Shiny-R)  
 🔋 Analyzed 4.2M records to identify peak demand drivers.  
 📉 Used predictive models with R² of 85.7% to provide sustainable energy solutions.  
+
+---
+
+## ✍️ Blogs & Insights  
+
+📌 [My Take on Parametric Estimation: How Data Analysts Drive Accuracy](https://www.linkedin.com/pulse/my-take-parametric-estimation-how-data-analysts-drive-archit-dukhande-p6r4f/?trackingId=I1LjV3uLr%2FNEK85uWD%2BXDw%3D%3D)  
+📌 [Exploratory Data Analysis: The First Step Towards Machine Learning](https://www.linkedin.com/pulse/exploratory-data-analysis-first-step-towards-machine-archit-dukhande-xlnxf/?trackingId=oByhHIWRQr7UMXW9WiXBbg%3D%3D)  
+📌 [From Numbers to Narratives: My Journey Through Analysis & Data Storytelling](https://www.linkedin.com/pulse/from-numbers-narratives-my-journey-through-analysis-data-dukhande-3e19f/?trackingId=k3QivIU5KERd293JuwtQ%2Bg%3D%3D)  
 
 ---
 
