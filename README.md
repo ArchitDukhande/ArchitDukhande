@@ -52,7 +52,7 @@ I combine analytical thinking with technical expertise to drive impactful soluti
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/archit-dukhande)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:adukhand@syr.edu)  
-📄 [**My Resume**](./Archit_Dukhande_Resume.pdf)  
+📄 [**My Resume**](./Archit_Dukhande_GradDS.pdf)  
 
 ---
 
