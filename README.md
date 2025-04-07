@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+ML+Enthusiast+%7C+Tech+Storyteller;Turning+data+into+insights+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+ML+Enthusiast+%7C+Tech+Storyteller;Turning+data+into+insights+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -76,18 +76,6 @@
   <a href="Archit_Dukhande_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-8B0000?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArchitDukhande&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArchitDukhande&theme=tokyonight" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchitDukhande&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ---
