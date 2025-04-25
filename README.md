@@ -46,6 +46,8 @@
 | ✈️ [**Dynamic Flight Fare Prediction**](https://github.com/ArchitDukhande/Dynamic-Flight-Fare-Prediction) | Achieved R² of 95.5% with regression models; visualized trends in customer behavior & pricing. |
 | 🛡️ [**Cyber Attack Prediction**](https://github.com/ArchitDukhande/CyberPulse-Predictive-Threat-Detection) | Developed a predictive security pipeline; AUC = 92%, real-time Power BI dashboards built. |
 | ⚡ [**Energy Demand Forecasting**](https://github.com/ArchitDukhande/Energy-Consumption-Prediction-using-Shiny-R) | Forecasted peak load using ML on 4.2M+ records; achieved R² of 85.7% with Shiny dashboards. |
+| 🗣️ [**Presidential Sentiment Analysis**](https://github.com/ArchitDukhande/Presidential-Sentiment-Analysis) | Analyzed sentiment and emotional intensity in Lincoln and Harrison speeches using Flair NLP, Seaborn, and WordCloud. |
+| 🌍 [**Remote Data/ML Job Trends Analysis**](https://github.com/ArchitDukhande/remote-hiring-insights) | Compared 2020–24 remote hiring trends from Remotive API and HN data using NLP, visualizations, and skill extraction.
 
 ---
 
