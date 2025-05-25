@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Archit Dukhande!</h1>
 
 <p align="center">
-🎓 <strong>MS in Applied Data Science</strong> | Syracuse University (GPA: 3.85/4)<br>
+🎓 <strong>MS in Applied Data Science</strong> | Syracuse University (GPA: 3.879/4)<br>
 📊 <i>A stat geek passionate about data, algorithms, and storytelling through numbers.</i>
 </p>
 
