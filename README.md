@@ -42,6 +42,7 @@
 
 | Project | Summary |
 |--------|---------|
+| ⚕️ [**Healthcare ETL & Anomaly Detection**](https://github.com/ArchitDukhande/Healthcare-ETL-and-Anomaly-Detection) | Developed an ETL pipeline for CMS healthcare data on Databricks; applied the ECOD algorithm to detect billing anomalies and identified key procedures with irregular charge-to-payment ratios. |
 | 📉 [**MAANG Stock Forecasting & Quant Analytics**](https://github.com/ArchitDukhande/MAANG-Stock-Forecasting) | End-to-end AWS-based pipeline for predicting MAANG stock prices using ARIMA; includes automated ETL, EC2-powered forecasting, and a real-time Streamlit dashboard. |
 | 🎯 [**Clinical Trial Analysis & Predictive Modeling**](https://github.com/ArchitDukhande/Clinical-Trial-Analysis-and-Predictive-Modeling) | Built ML models (XGBoost, RF) with 86% accuracy; delivered insights for trial optimization. |
 | ✈️ [**Dynamic Flight Fare Prediction**](https://github.com/ArchitDukhande/Dynamic-Flight-Fare-Prediction) | Achieved R² of 95.5% with regression models; visualized trends in customer behavior & pricing. |
