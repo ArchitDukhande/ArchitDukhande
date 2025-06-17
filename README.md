@@ -77,9 +77,6 @@
   <a href="mailto:adukhand@syr.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="Archit_Dukhande_ResumeUS.pdf">
-    <img src="https://img.shields.io/badge/Resume-8B0000?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
-  </a>
 </p>
 
 ---
