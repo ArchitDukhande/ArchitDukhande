@@ -42,7 +42,7 @@
 
 | Project | Summary |
 |--------|---------|
-| 🔄 [**Streaming Credit Card Transaction Pipeline for Fraud Analytics**](https://github.com/ArchitDukhande/streaming-fraud-pipeline) | Designed a real-time streaming data pipeline using Confluent Kafka, Snowflake, and Airflow to process 1M+ credit card transactions for fraud analytics; enabled near real-time dashboarding through Power BI. |
+| 🔄 [**Streaming Credit Card Transaction Pipeline for Fraud Analytics**][(https://github.com/ArchitDukhande/streaming-fraud-pipeline](https://github.com/ArchitDukhande/Streaming-Credit-Card-Transaction-Pipeline-for-Fraud-Analytics)) | Designed a real-time streaming data pipeline using Confluent Kafka, Snowflake, and Airflow to process 1M+ credit card transactions for fraud analytics; enabled near real-time dashboarding through Power BI. |
 | ⚕️ [**Healthcare ELT & Anomaly Detection**](https://github.com/ArchitDukhande/Healthcare-ELT-and-Anomaly-Detection) | Developed an ELT pipeline for CMS healthcare data on Databricks; applied the ECOD algorithm to detect billing anomalies and identified key procedures with irregular charge-to-payment ratios. |
 | 📉 [**MAANG Stock Forecasting & Quant Analytics**](https://github.com/ArchitDukhande/MAANG-Stock-Forecasting) | End-to-end AWS-based pipeline for predicting MAANG stock prices using ARIMA; includes automated ETL, EC2-powered forecasting, and a real-time Streamlit dashboard. |
 | 🎯 [**Clinical Trial Analysis & Predictive Modeling**](https://github.com/ArchitDukhande/Clinical-Trial-Analysis-and-Predictive-Modeling) | Built ML models (XGBoost, RF) with 86% accuracy; delivered insights for trial optimization. |
