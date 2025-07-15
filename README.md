@@ -18,7 +18,7 @@
 ## 🧠 About Me
 
 - 🌟 Passionate about solving business problems using data pipelines, analytics, and automation  
-- 🔄 Hands-on experience with real-time streaming, ELT pipelines, and data modeling  
+- 🔄 Hands-on experience with real-time streaming, ELT/ETL pipelines, and data modeling  
 - ⚙️ Thrive at the intersection of **engineering**, **analysis**, and **machine learning**  
 - 🤝 Open to collaborations and impactful data projects  
 
