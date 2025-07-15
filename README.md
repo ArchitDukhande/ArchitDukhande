@@ -2,37 +2,38 @@
 
 <p align="center">
 🎓 <strong>MS in Applied Data Science</strong> | Syracuse University (GPA: 3.879/4)<br>
-🛠️ Data Engineer · Analyst · MLOps Enthusiast
+📊 Data Engineer | Analyst | ML Enthusiast
 </p>
 
 <p align="center">
-  Turning real-time data into insights with Python, SQL, and cloud-native tools.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+ML+Enthusiast+%7C+Tech+Storyteller;Turning+data+into+insights+%F0%9F%9A%80" alt="Typing SVG" />
+  Turning real-time data into meaningful insights with Python, SQL, and cloud-native tools.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🌟 Passionate about solving business problems using data pipelines, analytics, and automation  
-- 🔄 Hands-on experience with real-time streaming, ELT/ETL pipelines, and data modeling  
-- ⚙️ Thrive at the intersection of **engineering**, **analysis**, and **machine learning**  
-- 🤝 Open to collaborations and impactful data projects  
+- 🌼 Passionate about solving business problems using data pipelines, analytics, and automation  
+- ✨ Hands-on experience with real-time streaming, ELT pipelines, and data modeling  
+- 🔄 Thrive at the intersection of <strong>engineering</strong>, <strong>analysis</strong>, and <strong>machine learning</strong>  
+- 🌱 Open to collaborations and data-driven projects  
 
 ---
 
-## 📌 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B2FE?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </p>
 
@@ -42,13 +43,35 @@
 
 | Project | Summary |
 |--------|---------|
-| 🔄 [**Streaming Fraud Analytics Pipeline**](https://github.com/ArchitDukhande/Streaming-Credit-Card-Transaction-Pipeline-for-Fraud-Analytics) | Built a real-time data pipeline using Confluent Kafka, Snowflake, and Airflow to simulate 1M+ transactions for fraud analytics; integrated Power BI for real-time dashboards. |
-| ⚕️ [**Healthcare ELT & Anomaly Detection**](https://github.com/ArchitDukhande/Healthcare-ELT-and-Anomaly-Detection) | ELT pipeline on Databricks; anomaly detection using ECOD for suspicious billing in CMS data. |
-| 📉 [**Stock Forecasting with AWS**](https://github.com/ArchitDukhande/MAANG-Stock-Forecasting) | End-to-end pipeline with ARIMA forecasting, Streamlit dashboards, and CI/CD using EC2. |
+| 🔄 [**Streaming Credit Card Transaction Pipeline for Fraud Analytics**](https://github.com/ArchitDukhande/Streaming-Credit-Card-Transaction-Pipeline-for-Fraud-Analytics) | Built a real-time pipeline using Confluent Kafka, Snowflake, and Airflow to process 1M+ transactions; Power BI dashboards deliver actionable insights. |
+| ⚕️ [**Healthcare ELT & Anomaly Detection**](https://github.com/ArchitDukhande/Healthcare-ELT-and-Anomaly-Detection) | Processed CMS data on Databricks and applied ECOD algorithm to identify healthcare billing anomalies. |
+| 📉 [**MAANG Stock Forecasting & Quant Analytics**](https://github.com/ArchitDukhande/MAANG-Stock-Forecasting) | Deployed ARIMA forecasting on AWS EC2; automated ETL and built Streamlit dashboard for MAANG stocks. |
+| 🎯 [**Clinical Trial Analysis & Predictive Modeling**](https://github.com/ArchitDukhande/Clinical-Trial-Analysis-and-Predictive-Modeling) | Built classification models (XGBoost, RF) with 86% accuracy; derived insights for trial optimization. |
+| ✈️ [**Dynamic Flight Fare Prediction**](https://github.com/ArchitDukhande/Dynamic-Flight-Fare-Prediction) | Achieved R² of 95.5% using regression techniques; uncovered pricing trends and customer insights. |
+| 🛡️ [**Cyber Attack Prediction**](https://github.com/ArchitDukhande/CyberPulse-Predictive-Threat-Detection) | Designed a pipeline to predict cyber threats with AUC of 92%; integrated Power BI for real-time alerts. |
+| ⚡ [**Energy Demand Forecasting**](https://github.com/ArchitDukhande/Energy-Consumption-Prediction-using-Shiny-R) | Predicted power usage on 4.2M+ records using ML; Shiny dashboard presented forecasting metrics. |
+| 🗣️ [**Presidential Sentiment Analysis**](https://github.com/ArchitDukhande/Presidential-Sentiment-Analysis) | Used Flair NLP, Seaborn, and WordCloud to analyze tone and sentiment in historical speeches. |
+| 🌍 [**Remote Data/ML Job Trends Analysis**](https://github.com/ArchitDukhande/remote-hiring-insights) | NLP-powered trend analysis on remote hiring data from Remotive API and Hacker News. |
 
 ---
 
-## ✉️ Let’s Connect
+## ✍️ Blogs & Insights
+
+- 🚀 [**Chasing a Transaction Across the Cloud**](https://www.linkedin.com/pulse/chasing-transaction-across-cloud-built-real-time-journey-dukhande-a1vhf) — Real-time streaming pipeline walkthrough with Kafka, Snowflake, Airflow & Power BI  
+- 📊 [**Parametric Estimation**](https://www.linkedin.com/pulse/my-take-parametric-estimation-how-data-analysts-drive-archit-dukhande-p6r4f/) — How data analysts estimate scope in ambiguity  
+- 📈 [**EDA: First Step Towards Machine Learning**](https://www.linkedin.com/pulse/exploratory-data-analysis-first-step-towards-machine-archit-dukhande-xlnxf/) — The importance of data exploration  
+- ✍️ [**From Numbers to Narratives**](https://www.linkedin.com/pulse/from-numbers-narratives-my-journey-through-analysis-data-dukhande-3e19f/) — How storytelling shaped my work in analytics  
+
+---
+
+## 🎵 Beyond Tech
+
+🎶 **Music**: Curate EDM, Lo-fi, Indie playlists  
+🍳 **Cooking**: Experimental dishes with precision — data-driven spice ratios 😅  
+
+---
+
+## 📢 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/archit-dukhande/">
@@ -61,4 +84,4 @@
 
 ---
 
-<p align="center"><b>“Turning data into decisions — one pipeline at a time.”</b></p>
+<p align="center"><b>“Turning data into insights, one project at a time.”</b></p>
