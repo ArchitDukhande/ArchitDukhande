@@ -1,79 +1,64 @@
-# 👋 Hi, I'm Archit Dukhande!
+<h1 align="center">👋 Hi, I'm Archit Dukhande!</h1>
 
-🎓 **MS in Applied Data Science** | Syracuse University (GPA: 3.879/4)  
-📊 Data Engineer | Analyst | ML Enthusiast
+<p align="center">
+🎓 <strong>MS in Applied Data Science</strong> | Syracuse University (GPA: 3.879/4)<br>
+🛠️ Data Engineer · Analyst · MLOps Enthusiast
+</p>
 
-Turning real-time data into meaningful insights with Python, SQL, and cloud-native tools.
+<p align="center">
+  Turning real-time data into insights with Python, SQL, and cloud-native tools.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+ML+Enthusiast+%7C+Tech+Storyteller;Turning+data+into+insights+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔍 Passionate about solving business problems using data pipelines, analytics, and automation
-- ⚙️ Hands-on experience with real-time streaming, ELT pipelines, and data modeling
-- 🧩 Thrive at the intersection of **engineering**, **analysis**, and **machine learning**
-- 🤝 Open to collaborations and data-driven projects
+- 🌟 Passionate about solving business problems using data pipelines, analytics, and automation  
+- 🔄 Hands-on experience with real-time streaming, ELT pipelines, and data modeling  
+- ⚙️ Thrive at the intersection of **engineering**, **analysis**, and **machine learning**  
+- 🤝 Open to collaborations and impactful data projects  
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 Tech Stack
 
-**Languages & Tools**:  
-Python | SQL | R | Git | Jupyter | Excel (Advanced)
-
-**Data Engineering**:  
-Apache Kafka | Apache Airflow | Snowflake | Snowpipe | dbt | Docker
-
-**Visualization**:  
-Power BI | Tableau
-
-**Cloud Platforms**:  
-Azure | AWS (S3, EC2, SageMaker)
-
-**Machine Learning**:  
-Scikit-learn | XGBoost | Snowpark ML (Planned)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B2FE?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔄 Streaming Credit Card Transaction Pipeline for Fraud Analytics
-- Built a real-time pipeline using Confluent Kafka, Snowflake, and Airflow
-- Processed 1M+ simulated transactions for fraud analysis using Power BI
-- Flattened nested JSON, deduplicated data, and orchestrated ingestion using DAGs
-
-### ⚕️ Healthcare ELT & Anomaly Detection
-- Processed CMS healthcare billing data using Databricks and SQL
-- Applied ECOD algorithm to identify anomalies in charge-to-payment ratios
-
-### 📉 MAANG Stock Forecasting
-- Designed ARIMA-based forecasting system on AWS with EC2 and S3
-- Automated data pipeline and deployed predictions via Streamlit dashboard
-
-### 🛡️ Cyber Attack Prediction
-- Built a classification model (AUC: 92%) to detect real-time security threats
-- Created interactive Power BI dashboards for executive insights
+| Project | Summary |
+|--------|---------|
+| 🔄 [**Streaming Fraud Analytics Pipeline**](https://github.com/ArchitDukhande/Streaming-Credit-Card-Transaction-Pipeline-for-Fraud-Analytics) | Built a real-time data pipeline using Confluent Kafka, Snowflake, and Airflow to simulate 1M+ transactions for fraud analytics; integrated Power BI for real-time dashboards. |
+| ⚕️ [**Healthcare ELT & Anomaly Detection**](https://github.com/ArchitDukhande/Healthcare-ELT-and-Anomaly-Detection) | ELT pipeline on Databricks; anomaly detection using ECOD for suspicious billing in CMS data. |
+| 📉 [**Stock Forecasting with AWS**](https://github.com/ArchitDukhande/MAANG-Stock-Forecasting) | End-to-end pipeline with ARIMA forecasting, Streamlit dashboards, and CI/CD using EC2. |
 
 ---
 
-## ✍️ Blogs & Insights
+## ✉️ Let’s Connect
 
-- [EDA: The First Step Toward Machine Learning](https://www.linkedin.com/pulse/exploratory-data-analysis-first-step-towards-machine-archit-dukhande-xlnxf/)
-- [From Numbers to Narratives: My Journey](https://www.linkedin.com/pulse/from-numbers-narratives-my-journey-through-analysis-data-dukhande-3e19f/)
-- [Chasing a Transaction Across the Cloud](https://www.linkedin.com/pulse/chasing-transaction-across-cloud-built-real-time-journey-dukhande-a1vhf)
-
----
-
-## 🎵 Beyond Tech
-
-🎶 **Music Explorer**: Curating lo-fi, indie, EDM, and Bollywood playlists  
-🍳 **Experimental Cook**: Cooking with a pinch of stats and a dash of Python
+<p align="center">
+  <a href="https://www.linkedin.com/in/archit-dukhande/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:adukhand@syr.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Archit_Dukhande-blue?logo=linkedin)](https://www.linkedin.com/in/archit-dukhande/)  
-📧 adukhand@syr.edu
-
-> “Turning data into insights, one project at a time.”
+<p align="center"><b>“Turning data into decisions — one pipeline at a time.”</b></p>
