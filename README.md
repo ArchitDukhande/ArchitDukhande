@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 <strong>MS in Applied Data Science</strong> | Syracuse University (GPA: 3.879/4)<br>
-📊 Data Engineer | Analyst | ML Enthusiast
+  Data Engineer | Analyst | ML Enthusiast
 </p>
 
 <p align="center">
