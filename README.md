@@ -23,20 +23,42 @@ Turning real-time data into meaningful insights and building solutions that help
 
 ## 🛠️ Tech Stack
 
+### 🧩 Data Engineering & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <br/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning & Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+### 📊 Visualization & Reporting
+<p align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <br/>
+  <img src="https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
@@ -45,7 +67,7 @@ Turning real-time data into meaningful insights and building solutions that help
 
 | Project | Summary |
 |--------|---------|
-| 🤖 [**FraudFlow MLOps: Cloud-Native Fraud Detection**](https://www.linkedin.com/pulse/fraudflow-mlops-cloud-native-end-to-end-fraud-archit-dukhande-vft1f/?trackingId=WI2MgcRXQpOAUGOEoa4bzA%3D%3D) | Designed a complete MLOps system on Google Cloud that transforms raw transactions into real-time fraud intelligence. Combined data engineering with ML to automate fraud insights end-to-end. |
+| 🤖 [**FraudFlow MLOps: Cloud-Native Fraud Detection**](https://github.com/ArchitDukhande/FraudFlow-MLOps-Cloud-Native-End-to-End-Fraud-Detection) | Designed a complete MLOps system on Google Cloud that transforms raw transactions into real-time fraud intelligence. Combined data engineering with ML to automate fraud insights end-to-end. |
 | 🔄 [**Streaming Credit Card Transaction Pipeline for Fraud Analytics**](https://github.com/ArchitDukhande/Streaming-Credit-Card-Transaction-Pipeline-for-Fraud-Analytics) | Built a real-time data pipeline using Confluent Kafka, Snowflake, and Airflow to process 1M+ transactions. Insights visualized in Power BI. |
 | ⚕️ [**Healthcare ELT & Anomaly Detection**](https://github.com/ArchitDukhande/Healthcare-ELT-and-Anomaly-Detection) | Processed CMS data on Databricks and used ECOD to identify healthcare billing anomalies. |
 | 📉 [**MAANG Stock Forecasting & Quant Analytics**](https://github.com/ArchitDukhande/MAANG-Stock-Forecasting) | Forecasted MAANG stock prices with ARIMA models on AWS EC2 and built an automated Streamlit dashboard. |
