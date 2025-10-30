@@ -2,21 +2,22 @@
 
 <p align="center">
 🎓 <strong>MS in Applied Data Science</strong> | Syracuse University (GPA: 3.879/4)<br>
-  Data Engineer | Analyst | ML Enthusiast
+💡 <strong>Data Engineer | AI/ML | Cloud | Learn • Build • Innovate</strong>
 </p>
 
 <p align="center">
-  Turning real-time data into meaningful insights with Python, SQL, and cloud-native tools.
+Turning real-time data into meaningful insights and building solutions that help people grow and create impact.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🌼 Passionate about solving business problems using data pipelines, analytics, and automation  
-- ✨ Hands-on experience with real-time streaming, ETL/ELT pipelines, and data modeling  
-- 🔄 Thrive at the intersection of <strong>engineering</strong>, <strong>analysis</strong>, and <strong>machine learning</strong>  
-- 🌱 Open to collaborations and data-driven projects  
+- 🌱 Passionate about solving business problems through **data engineering, analytics, and AI**
+- ⚙️ Experienced in building **streaming pipelines, automation workflows, and ML models**
+- 🚀 Thrive at the intersection of **engineering, analysis, and innovation**
+- 💬 Always curious, always learning, and open to collaborations
+- 🌎 Believe in using data to make systems smarter and people’s lives easier
 
 ---
 
@@ -35,6 +36,7 @@
   <br/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
 ---
@@ -43,31 +45,33 @@
 
 | Project | Summary |
 |--------|---------|
-| 🔄 [**Streaming Credit Card Transaction Pipeline for Fraud Analytics**](https://github.com/ArchitDukhande/Streaming-Credit-Card-Transaction-Pipeline-for-Fraud-Analytics) | Built a real-time pipeline using Confluent Kafka, Snowflake, and Airflow to process 1M+ transactions; Power BI dashboards deliver actionable insights. |
-| ⚕️ [**Healthcare ELT & Anomaly Detection**](https://github.com/ArchitDukhande/Healthcare-ELT-and-Anomaly-Detection) | Processed CMS data on Databricks and applied ECOD algorithm to identify healthcare billing anomalies. |
-| 📉 [**MAANG Stock Forecasting & Quant Analytics**](https://github.com/ArchitDukhande/MAANG-Stock-Forecasting) | Deployed ARIMA forecasting on AWS EC2; automated ETL and built Streamlit dashboard for MAANG stocks. |
-| 🎯 [**Clinical Trial Analysis & Predictive Modeling**](https://github.com/ArchitDukhande/Clinical-Trial-Analysis-and-Predictive-Modeling) | Built classification models (XGBoost, RF) with 86% accuracy; derived insights for trial optimization. |
-| ✈️ [**Dynamic Flight Fare Prediction**](https://github.com/ArchitDukhande/Dynamic-Flight-Fare-Prediction) | Achieved R² of 95.5% using regression techniques; uncovered pricing trends and customer insights. |
-| 🛡️ [**Cyber Attack Prediction**](https://github.com/ArchitDukhande/CyberPulse-Predictive-Threat-Detection) | Designed a pipeline to predict cyber threats with AUC of 92%; integrated Power BI for real-time alerts. |
-| ⚡ [**Energy Demand Forecasting**](https://github.com/ArchitDukhande/Energy-Consumption-Prediction-using-Shiny-R) | Predicted power usage on 4.2M+ records using ML; Shiny dashboard presented forecasting metrics. |
-| 🗣️ [**Presidential Sentiment Analysis**](https://github.com/ArchitDukhande/Presidential-Sentiment-Analysis) | Used Flair NLP, Seaborn, and WordCloud to analyze tone and sentiment in historical speeches. |
-| 🌍 [**Remote Data/ML Job Trends Analysis**](https://github.com/ArchitDukhande/remote-hiring-insights) | NLP-powered trend analysis on remote hiring data from Remotive API and Hacker News. |
+| 🤖 [**FraudFlow MLOps: Cloud-Native Fraud Detection**](https://www.linkedin.com/pulse/fraudflow-mlops-cloud-native-end-to-end-fraud-archit-dukhande-vft1f/?trackingId=WI2MgcRXQpOAUGOEoa4bzA%3D%3D) | Designed a complete MLOps system on Google Cloud that transforms raw transactions into real-time fraud intelligence. Combined data engineering with ML to automate fraud insights end-to-end. |
+| 🔄 [**Streaming Credit Card Transaction Pipeline for Fraud Analytics**](https://github.com/ArchitDukhande/Streaming-Credit-Card-Transaction-Pipeline-for-Fraud-Analytics) | Built a real-time data pipeline using Confluent Kafka, Snowflake, and Airflow to process 1M+ transactions. Insights visualized in Power BI. |
+| ⚕️ [**Healthcare ELT & Anomaly Detection**](https://github.com/ArchitDukhande/Healthcare-ELT-and-Anomaly-Detection) | Processed CMS data on Databricks and used ECOD to identify healthcare billing anomalies. |
+| 📉 [**MAANG Stock Forecasting & Quant Analytics**](https://github.com/ArchitDukhande/MAANG-Stock-Forecasting) | Forecasted MAANG stock prices with ARIMA models on AWS EC2 and built an automated Streamlit dashboard. |
+| 🎯 [**Clinical Trial Analysis & Predictive Modeling**](https://github.com/ArchitDukhande/Clinical-Trial-Analysis-and-Predictive-Modeling) | Built XGBoost and Random Forest models with 86% accuracy for clinical trial outcome prediction. |
+| ✈️ [**Dynamic Flight Fare Prediction**](https://github.com/ArchitDukhande/Dynamic-Flight-Fare-Prediction) | Achieved R² of 95.5% with regression models and uncovered dynamic pricing trends. |
+| 🛡️ [**Cyber Attack Prediction (CyberPulse)**](https://github.com/ArchitDukhande/CyberPulse-Predictive-Threat-Detection) | Designed an ML pipeline for cyber threat prediction with AUC of 92% and Power BI dashboard for live alerts. |
+| ⚡ [**Energy Demand Forecasting**](https://github.com/ArchitDukhande/Energy-Consumption-Prediction-using-Shiny-R) | Predicted energy demand on 4.2M+ records using ML and presented it with an interactive Shiny dashboard. |
+| 🗣️ [**Presidential Sentiment Analysis**](https://github.com/ArchitDukhande/Presidential-Sentiment-Analysis) | Used Flair NLP and Seaborn to analyze tone and sentiment in historic speeches. |
+| 🌍 [**Remote Data/ML Job Trends**](https://github.com/ArchitDukhande/remote-hiring-insights) | NLP-powered trend analysis on remote hiring data from Remotive API and Hacker News. |
 
 ---
 
 ## ✍️ Blogs & Insights
 
-- 🚀 [**Chasing a Transaction Across the Cloud**](https://www.linkedin.com/pulse/chasing-transaction-across-cloud-built-real-time-journey-dukhande-a1vhf) — Real-time streaming pipeline walkthrough with Kafka, Snowflake, Airflow & Power BI  
-- 📊 [**Parametric Estimation**](https://www.linkedin.com/pulse/my-take-parametric-estimation-how-data-analysts-drive-archit-dukhande-p6r4f/) — How data analysts estimate scope in ambiguity  
-- 📈 [**EDA: First Step Towards Machine Learning**](https://www.linkedin.com/pulse/exploratory-data-analysis-first-step-towards-machine-archit-dukhande-xlnxf/) — The importance of data exploration  
-- ✍️ [**From Numbers to Narratives**](https://www.linkedin.com/pulse/from-numbers-narratives-my-journey-through-analysis-data-dukhande-3e19f/) — How storytelling shaped my work in analytics  
+- 🚀 [**Cloud-Native End-to-End Fraud Intelligence**](https://www.linkedin.com/pulse/fraudflow-mlops-cloud-native-end-to-end-fraud-archit-dukhande-vft1f/?trackingId=WI2MgcRXQpOAUGOEoa4bzA%3D%3D) – A hands-on guide to building an MLOps system on Google Cloud for real-time fraud detection  
+- 🚀 [**Chasing a Transaction Across the Cloud**](https://www.linkedin.com/pulse/chasing-transaction-across-cloud-built-real-time-journey-dukhande-a1vhf) – My journey building a real-time pipeline with Kafka, Snowflake, and Airflow  
+- 📊 [**Parametric Estimation**](https://www.linkedin.com/pulse/my-take-parametric-estimation-how-data-analysts-drive-archit-dukhande-p6r4f/) – How data analysts estimate scope in ambiguity  
+- 📈 [**EDA: First Step Towards Machine Learning**](https://www.linkedin.com/pulse/exploratory-data-analysis-first-step-towards-machine-archit-dukhande-xlnxf/) – The importance of understanding data before modeling  
+- ✍️ [**From Numbers to Narratives**](https://www.linkedin.com/pulse/from-numbers-narratives-my-journey-through-analysis-data-dukhande-3e19f/) – How storytelling shaped my work in analytics  
 
 ---
 
-## 🎵 Beyond Tech
+## 🌱 Philosophy
 
-🎶 **Music**: Curate EDM, Lo-fi, Indie playlists  
-🍳 **Cooking**: Experimental dishes with precision — data-driven spice ratios 😅  
+I believe in learning by building. Every project I take on is a step toward becoming a better engineer and a more thoughtful human.  
+My goal is simple: to learn, build, and innovate while creating solutions that make a real difference.
 
 ---
 
@@ -80,8 +84,11 @@
   <a href="mailto:architdukhande@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/ArchitDukhande">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<p align="center"><b>“Turning data into insights, one project at a time.”</b></p>
+<p align="center"><b>“Learn. Build. Innovate.”</b></p>
