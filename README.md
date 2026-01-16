@@ -2,22 +2,30 @@
 
 <p align="center">
 🎓 <strong>MS in Applied Data Science</strong> | Syracuse University (GPA: 3.879/4)<br>
-💡 <strong>Data Engineer | AI/ML | Cloud | Learn • Build • Innovate</strong>
+💡 <strong>Data Engineer | Production ML | Cloud</strong>
 </p>
 
 <p align="center">
-Turning real-time data into meaningful insights and building solutions that help people grow and create impact.
+Building, breaking, and improving real-world machine learning systems.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🌱 Passionate about solving business problems through **data engineering, analytics, and AI**
-- ⚙️ Experienced in building **streaming pipelines, automation workflows, and ML models**
-- 🚀 Thrive at the intersection of **engineering, analysis, and innovation**
-- 💬 Always curious, always learning, and open to collaborations
-- 🌎 Believe in using data to make systems smarter and people’s lives easier
+- Passionate about solving real-world problems through **data engineering and production machine learning**
+- Experienced in building **streaming pipelines, ML inference systems, and automation workflows**
+- Strong interest in **ML deployment, inference behavior, and system reliability**
+- Learn by experimenting in real systems and understanding **why things fail before fixing them**
+- Believe practical ML in production matters more than perfect offline metrics
+
+---
+
+## 🔥 Currently
+
+- Developing and debugging machine learning systems in production  
+- Working on model deployment, inference pipelines, and system reliability  
+- Improving cost, performance, and latency of ML workloads in real environments  
 
 ---
 
@@ -33,21 +41,21 @@ Turning real-time data into meaningful insights and building solutions that help
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning & Analytics
+### 🤖 Machine Learning & Production ML
 <p align="center">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TorchServe-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-### 📊 Visualization & Reporting
+### 📊 Visualization & Analysis
 <p align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
@@ -64,36 +72,14 @@ Turning real-time data into meaningful insights and building solutions that help
 ---
 
 ## 🚀 Featured Projects
-
-| Project | Summary |
-|--------|---------|
-| 🤖 [**FraudFlow MLOps: Cloud-Native Fraud Detection**](https://github.com/ArchitDukhande/FraudFlow-MLOps-Cloud-Native-End-to-End-Fraud-Detection) | Designed a complete MLOps system on Google Cloud that transforms raw transactions into real-time fraud intelligence. Combined data engineering with ML to automate fraud insights end-to-end. |
-| 🔄 [**Streaming Credit Card Transaction Pipeline for Fraud Analytics**](https://github.com/ArchitDukhande/Streaming-Credit-Card-Transaction-Pipeline-for-Fraud-Analytics) | Built a real-time data pipeline using Confluent Kafka, Snowflake, and Airflow to process 1M+ transactions. Insights visualized in Power BI. |
-| ⚕️ [**Healthcare ELT & Anomaly Detection**](https://github.com/ArchitDukhande/Healthcare-ELT-and-Anomaly-Detection) | Processed CMS data on Databricks and used ECOD to identify healthcare billing anomalies. |
-| 📉 [**MAANG Stock Forecasting & Quant Analytics**](https://github.com/ArchitDukhande/MAANG-Stock-Forecasting) | Forecasted MAANG stock prices with ARIMA models on AWS EC2 and built an automated Streamlit dashboard. |
-| 🎯 [**Clinical Trial Analysis & Predictive Modeling**](https://github.com/ArchitDukhande/Clinical-Trial-Analysis-and-Predictive-Modeling) | Built XGBoost and Random Forest models with 86% accuracy for clinical trial outcome prediction. |
-| ✈️ [**Dynamic Flight Fare Prediction**](https://github.com/ArchitDukhande/Dynamic-Flight-Fare-Prediction) | Achieved R² of 95.5% with regression models and uncovered dynamic pricing trends. |
-| 🛡️ [**Cyber Attack Prediction (CyberPulse)**](https://github.com/ArchitDukhande/CyberPulse-Predictive-Threat-Detection) | Designed an ML pipeline for cyber threat prediction with AUC of 92% and Power BI dashboard for live alerts. |
-| ⚡ [**Energy Demand Forecasting**](https://github.com/ArchitDukhande/Energy-Consumption-Prediction-using-Shiny-R) | Predicted energy demand on 4.2M+ records using ML and presented it with an interactive Shiny dashboard. |
-| 🗣️ [**Presidential Sentiment Analysis**](https://github.com/ArchitDukhande/Presidential-Sentiment-Analysis) | Used Flair NLP and Seaborn to analyze tone and sentiment in historic speeches. |
-| 🌍 [**Remote Data/ML Job Trends**](https://github.com/ArchitDukhande/remote-hiring-insights) | NLP-powered trend analysis on remote hiring data from Remotive API and Hacker News. |
-
----
-
-## ✍️ Blogs & Insights
-
-- 🚀 [**Cloud-Native End-to-End Fraud Intelligence**](https://www.linkedin.com/pulse/fraudflow-mlops-cloud-native-end-to-end-fraud-archit-dukhande-vft1f/?trackingId=WI2MgcRXQpOAUGOEoa4bzA%3D%3D) – A hands-on guide to building an MLOps system on Google Cloud for real-time fraud detection  
-- 🚀 [**Chasing a Transaction Across the Cloud**](https://www.linkedin.com/pulse/chasing-transaction-across-cloud-built-real-time-journey-dukhande-a1vhf) – My journey building a real-time pipeline with Kafka, Snowflake, and Airflow  
-- 📊 [**Parametric Estimation**](https://www.linkedin.com/pulse/my-take-parametric-estimation-how-data-analysts-drive-archit-dukhande-p6r4f/) – How data analysts estimate scope in ambiguity  
-- 📈 [**EDA: First Step Towards Machine Learning**](https://www.linkedin.com/pulse/exploratory-data-analysis-first-step-towards-machine-archit-dukhande-xlnxf/) – The importance of understanding data before modeling  
-- ✍️ [**From Numbers to Narratives**](https://www.linkedin.com/pulse/from-numbers-narratives-my-journey-through-analysis-data-dukhande-3e19f/) – How storytelling shaped my work in analytics  
+*(unchanged)*
 
 ---
 
 ## 🌱 Philosophy
 
-I believe in learning by building. Every project I take on is a step toward becoming a better engineer and a more thoughtful human.  
-My goal is simple: to learn, build, and innovate while creating solutions that make a real difference.
+Understand why a problem exists before fixing it.  
+Learn by building, breaking, and improving real systems.
 
 ---
 
@@ -111,6 +97,4 @@ My goal is simple: to learn, build, and innovate while creating solutions that m
   </a>
 </p>
 
----
-
-<p align="center"><b>“Learn. Build. Innovate.”</b></p>
+<p align="center"><b>Learn. Build. Improve.</b></p>
