@@ -72,7 +72,20 @@ Building, breaking, but learning and growing!
 ---
 
 ## 🚀 Featured Projects
-*(unchanged)*
+
+| Project | What I Built |
+|--------|--------------|
+| 🤖 **[FraudFlow MLOps: Cloud-Native Fraud Detection](https://github.com/ArchitDukhande/FraudFlow-MLOps-Cloud-Native-End-to-End-Fraud-Detection)** | Designed and deployed an end-to-end fraud detection system on Google Cloud. Built data ingestion, feature pipelines, model training, and real-time inference to convert raw transactions into actionable fraud signals. |
+| 🔄 **[Streaming Credit Card Transaction Pipeline](https://github.com/ArchitDukhande/Streaming-Credit-Card-Transaction-Pipeline-for-Fraud-Analytics)** | Built a real-time streaming pipeline using Kafka, Snowflake, and Airflow to process over 1M transactions. Implemented schema enforcement, deduplication, and reliable transformations with insights delivered through Power BI. |
+| ⚕️ **[Healthcare ELT & Anomaly Detection](https://github.com/ArchitDukhande/Healthcare-ELT-and-Anomaly-Detection)** | Developed ELT workflows on Databricks to process CMS healthcare data and applied ECOD-based anomaly detection to surface suspicious billing patterns. |
+| 📉 **[MAANG Stock Forecasting & Quant Analytics](https://github.com/ArchitDukhande/MAANG-Stock-Forecasting)** | Built automated ETL pipelines on AWS EC2 and trained ARIMA models to forecast MAANG stock prices, with results visualized through an interactive Streamlit dashboard. |
+| 🎯 **[Clinical Trial Analysis & Predictive Modeling](https://github.com/ArchitDukhande/Clinical-Trial-Analysis-and-Predictive-Modeling)** | Trained XGBoost and Random Forest models to predict clinical trial outcomes, achieving 86% accuracy and identifying key drivers of trial success. |
+| ✈️ **[Dynamic Flight Fare Prediction](https://github.com/ArchitDukhande/Dynamic-Flight-Fare-Prediction)** | Built regression-based pricing models achieving an R² of 95.5%, uncovering demand-driven fare patterns and pricing behavior. |
+| 🛡️ **[CyberPulse: Predictive Threat Detection](https://github.com/ArchitDukhande/CyberPulse-Predictive-Threat-Detection)** | Developed an ML pipeline for cyber attack prediction with an AUC of 92%, integrating results into a Power BI dashboard for monitoring and analysis. |
+| ⚡ **[Energy Demand Forecasting](https://github.com/ArchitDukhande/Energy-Consumption-Prediction-using-Shiny-R)** | Processed and modeled 4.2M+ energy consumption records to forecast demand trends, delivered via an interactive Shiny dashboard. |
+| 🗣️ **[Presidential Sentiment Analysis](https://github.com/ArchitDukhande/Presidential-Sentiment-Analysis)** | Applied NLP techniques using Flair to analyze sentiment and tone across historic presidential speeches. |
+| 🌍 **[Remote Data & ML Job Trends](https://github.com/ArchitDukhande/remote-hiring-insights)** | Built an NLP-driven analysis pipeline using Remotive API and Hacker News data to uncover trends in remote data and ML hiring. |
+
 
 ---
 
