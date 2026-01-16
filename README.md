@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-Building, breaking, and improving real-world machine learning systems.
+Building, breaking, but learning and growing!
 </p>
 
 ---
