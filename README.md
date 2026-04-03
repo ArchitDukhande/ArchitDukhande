@@ -26,6 +26,9 @@ Building, breaking, but learning and growing!
 - Developing and debugging machine learning systems in production  
 - Working on model deployment, inference pipelines, and system reliability  
 - Improving cost, performance, and latency of ML workloads in real environments  
+- Upskilling in AI/ML systems with focus on retrieval, chunking, and ranking strategies  
+- Evaluating model performance and iteratively fine-tuning models using synthetic and real-world data  
+- Conducting production-level evaluation and improving model reliability in startup environments  
 
 ---
 
@@ -75,7 +78,8 @@ Building, breaking, but learning and growing!
 
 | Project | What I Built |
 |--------|--------------|
-| 🤖 **[FraudFlow MLOps: Cloud-Native Fraud Detection](https://github.com/ArchitDukhande/FraudFlow-MLOps-Cloud-Native-End-to-End-Fraud-Detection)** | Designed and deployed an end-to-end fraud detection system on Google Cloud. Built data ingestion, feature pipelines, model training, and real-time inference to convert raw transactions into actionable fraud signals. |
+| 🤖 **[Digital Twin of Archit: Evidence-Based ML System](https://archit-at-sara-twin.streamlit.app/)** | Designed an evidence-grounded AI system with multi-layer retrieval and verification pipeline, enforcing zero-hallucination responses via refusal gates and quote-level validation. Focused on correctness, traceability, and safe deployment of LLM-based systems. |
+| 🧠 **[FraudFlow MLOps: Cloud-Native Fraud Detection](https://github.com/ArchitDukhande/FraudFlow-MLOps-Cloud-Native-End-to-End-Fraud-Detection)** | Designed and deployed an end-to-end fraud detection system on Google Cloud. Built data ingestion, feature pipelines, model training, and real-time inference to convert raw transactions into actionable fraud signals. |
 | 🔄 **[Streaming Credit Card Transaction Pipeline](https://github.com/ArchitDukhande/Streaming-Credit-Card-Transaction-Pipeline-for-Fraud-Analytics)** | Built a real-time streaming pipeline using Kafka, Snowflake, and Airflow to process over 1M transactions. Implemented schema enforcement, deduplication, and reliable transformations with insights delivered through Power BI. |
 | ⚕️ **[Healthcare ELT & Anomaly Detection](https://github.com/ArchitDukhande/Healthcare-ELT-and-Anomaly-Detection)** | Developed ELT workflows on Databricks to process CMS healthcare data and applied ECOD-based anomaly detection to surface suspicious billing patterns. |
 | 📉 **[MAANG Stock Forecasting & Quant Analytics](https://github.com/ArchitDukhande/MAANG-Stock-Forecasting)** | Built automated ETL pipelines on AWS EC2 and trained ARIMA models to forecast MAANG stock prices, with results visualized through an interactive Streamlit dashboard. |
@@ -85,7 +89,6 @@ Building, breaking, but learning and growing!
 | ⚡ **[Energy Demand Forecasting](https://github.com/ArchitDukhande/Energy-Consumption-Prediction-using-Shiny-R)** | Processed and modeled 4.2M+ energy consumption records to forecast demand trends, delivered via an interactive Shiny dashboard. |
 | 🗣️ **[Presidential Sentiment Analysis](https://github.com/ArchitDukhande/Presidential-Sentiment-Analysis)** | Applied NLP techniques using Flair to analyze sentiment and tone across historic presidential speeches. |
 | 🌍 **[Remote Data & ML Job Trends](https://github.com/ArchitDukhande/remote-hiring-insights)** | Built an NLP-driven analysis pipeline using Remotive API and Hacker News data to uncover trends in remote data and ML hiring. |
-
 
 ---
 
