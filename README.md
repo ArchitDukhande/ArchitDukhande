@@ -23,12 +23,11 @@ Building, breaking, but learning and growing!
 
 ## 🔥 Currently
 
-- Developing and debugging machine learning systems in production  
-- Working on model deployment, inference pipelines, and system reliability  
-- Improving cost, performance, and latency of ML workloads in real environments  
-- Upskilling in AI/ML systems with focus on retrieval, chunking, and ranking strategies  
-- Evaluating model performance and iteratively fine-tuning models using synthetic and real-world data  
-- Conducting production-level evaluation and improving model reliability in startup environments  
+- ML Intern at Sara Technology, working on ML infrastructure, focusing on latency, cost, and deployment trade-offs  
+- Understanding model performance in production and its impact on product behavior and user experience  
+- Contributing to evaluation and fine-tuning based on real-world system behavior rather than offline metrics  
+- Upskilling in AI/ML systems, especially around retrieval, chunking, and ranking approaches  
+- Networking with people, sharing ideas, and learning something new every day  
 
 ---
 
